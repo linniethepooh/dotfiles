@@ -35,3 +35,4 @@ export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
 export PATH="$HOME/.rbenv/bin:$PATH"
 export PATH="$HOME/.rbenv/bin:$PATH"
 source $HOME/.zshenv
+export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
